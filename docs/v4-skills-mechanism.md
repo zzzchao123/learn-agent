@@ -391,3 +391,5 @@ The essence of knowledge externalization is **turning implicit knowledge into ex
 ---
 
 **Tools let models act. Skills let models know how.**
+
+[← v3](./v3-subagent-mechanism.md) | [Back to README](../README.md) | [v0 →](./v0-bash-is-all-you-need.md)
