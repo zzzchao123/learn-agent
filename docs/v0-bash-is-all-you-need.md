@@ -114,4 +114,4 @@ Everything else—todos, subagents, permissions—is refinement around this loop
 
 **Bash is All You Need.**
 
-[← Back to README](../README.md)
+[← Back to README](../README.md) | [v1 →](./v1-model-as-agent.md)
